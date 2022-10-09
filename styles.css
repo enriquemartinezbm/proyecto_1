@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(6, 40, 71);
+    color: rgb(255, 0, 43);   
+
+}
+nav>ul>li>a {
+    color: rgb(255, 0, 43);
+}
